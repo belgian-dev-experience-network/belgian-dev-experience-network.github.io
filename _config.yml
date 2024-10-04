@@ -2,7 +2,7 @@ title: Belgian Dev Experience Network
 description: >-
   The homepage for the BDEN community! A platform for events, workshops and knowledge sharing by and for developers.
 baseurl: ""
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://belgian-dev-experience-network.github.io"
 github_username:  belgian-dev-experience-network
 theme: minima
 plugins:

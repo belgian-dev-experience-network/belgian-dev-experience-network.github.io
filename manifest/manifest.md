@@ -57,4 +57,145 @@ Our community is founded on the following core values:
 * **Inclusivity**:    
     We are dedicated to building a welcoming and diverse community, where everyone has the opportunity to learn, contribute, and grow.
 
+## Rules of engagement
+As part of our commitment to creating an inspiring, respectful, and inclusive environment,
+we’ve established a set of rules of engagement. These guidelines are in place to ensure our meetups
+and related activities provide a rewarding experience for all participants. Whether you’re here to learn,
+share, network, or simply meet like-minded individuals, these rules are designed to foster a positive
+community spirit.
+
+```text 
+By participating in the Developer Experience Network, you agree to follow these rules of engagement. 
+Our goal is to ensure that every member feels valued, respected, and supported. Together, we can 
+create a vibrant, engaging, and inclusive community.
+```
+
+### Participation
+* **Be Active:**  
+    Engage with the community. Your contributions help us grow and thrive. 
+    Feel free to share your knowledge, ask questions, and provide feedback.
+    Not actively participating within the steering committee can lead towards exclusion.
+* **RSVP with Integrity:**  
+    If you’ve confirmed attendance, do your best to show up. 
+    Time is precious, and it can be inconvenient for noticing late that a meeting can’t occur due to 
+    limited show-ups. If you can’t make it, please update your RSVP status as soon as possible.
+
+### Respect and Inclusivity
+* **Respect Diversity:**  
+  Our community is a tapestry of individuals from varied backgrounds, professions, and life experiences. 
+  Embrace the diversity, and respect everyone’s opinions, beliefs, and personal boundaries. 
+* **Inclusive Language:**  
+  Use language that is welcoming and inclusive. Avoid expressions that could be considered offensive 
+  or exclusive based on race, gender, ethnicity, religion, sexual orientation, disability, or 
+  socioeconomic status.
+
+### Communication
+* **Listen Actively:**  
+    Good communication starts with listening. Give your full attention to the speaker, 
+    whether during a presentation or a one-on-one conversation. This respect fosters a positive 
+    exchange of ideas.
+* **Constructive Feedback:**  
+    Feedback is invaluable, but its delivery matters. Offer feedback in a constructive, 
+    positive manner, focusing on the idea rather than the individual.
+
+### Networking and Privacy
+* **Networking with Respect:**  
+    While networking is encouraged, respect the privacy and preferences of others. Not everyone may 
+    be looking for networking opportunities. Consent is key—ask before exchanging contact information.  
+* **Privacy and Confidentiality:**  
+    Respect the confidentiality of discussions, especially if sensitive topics are shared. 
+    What’s discussed in our meetups should stay within the community unless explicit permission is 
+    given.
+
+### Digital Conduct
+* **Online Etiquette:**  
+    Treat each other with respect and kindness in our digital spaces, just as you would in person. 
+    Harassment, bullying, and derogatory comments are not tolerated.
+* **Photo and Video Courtesy:**  
+    Always ask for consent before taking photos or videos during meetups, especially if the content 
+    will be shared publicly.
+
+### Conflict Resolution
+* **Addressing Issues:**  
+    Should conflicts arise, address them directly with the individuals involved in a respectful and 
+    private manner. If resolution cannot be achieved, seek assistance from a community organizer.
+* **Community Support:**  
+    Our organizers are here to help mediate conflicts and ensure the community remains a welcoming 
+    space for all. Don’t hesitate to reach out with concerns or issues.
+
+### Commitment to Community
+* Support and Elevate:  
+    Look for opportunities to support and elevate your fellow members. Whether it’s through mentorship, 
+    sharing opportunities, or providing a listening ear, small acts of kindness contribute to our 
+    community’s strength.
+* Constructive Community:  
+    This is a community where we will collaborate beyond the borders of our organizations. It will 
+    not be tolerated that one of the participants is abusing this community, these events or platforms 
+    to gain personal benefit in favor of the other members.
+
+## Steering committee
+The community will be guided by a Steering Committee, which is responsible for 
+strategic decision-making, oversight, and ensuring the community's alignment with our shared vision 
+and mission.
+
+As a lot of meetup scenes have a hard time to start up in Belgium, **the success of this community will 
+fail or succeed depending on the member buy-in and involvement**. This will be crucial within this story, 
+so the member organizations will be playing a key role within this steering committee/community.
+
+## Community
+
+### Topic subjects
+* Development
+* Architecture
+* Operations
+* Infrastructure
+* Security
+* SRE
+* Business
+* AI
+* Communication (strategies) - Culture
+
+### Topic criteria/content
+As we are aiming for a broad and inclusive community, the topics should be generic and open to diverse 
+technologies and approaches. There should be room for discussing various platforms, frameworks, and 
+tools, fostering open discussions on a wide range of subjects. We should ensure that no single 
+organization or solution dominates the conversation, encouraging diversity of thought and experience. 
+The focus should remain on providing value to developers through technical discussions, avoiding  
+commercial or promotional content from the partners involved in the community. This is a space for 
+developers, not a commercial platform.
+
+A second focus point should be, that we don’t only target sessions on state-of-the-art technologies 
+and frameworks: e.g., service mesh is cool, but a lot of organizations are still deploying monolithic 
+applications on web servers. We should bring messages about the real world, the world where 
+organizations are today. E.g., Java 11 end-of-life, how to migrate, how to modernize a monolithic 
+application, …?
+
+**Summary**  
+* Not commercial.
+* Should have technical relevance and added value.
+* Mainly realistic topics, not only state-of the art.
+* Functional - not product related (e.g., streaming advantages instead of Kafka seller x).
+
+### Target audience
+* **Developers (primary target audience):**  
+    Topics should be presented to bring a message towards developers, meaning e.g., not too deep into 
+    infra or business vocabulary and explaining concepts that seem obvious.
+* **Architects (secondary target audience):**  
+    The secondary focus group should be architects, being a wide range of roles (e.g., platform 
+    architect, software architect, enterprise architect, ...)
+
+### Knowledge gathering and sharing focus
+Within the starting partner community group, a Steering Committee will be formed. This committee will 
+be tasked to provide valuable topics, routes to community but is also able to take these topics into 
+its own inner group in order to build up the needed expertise that over time can be shared with the 
+other members of the group and needs to finally result in sharing this knowledge and findings with the 
+wider community. This could be referred to as the inner workings of the Developer Experience Network
+that has the focus on:
+* Cooperation between the participating partners (Focus on tech and best practices)
+* Build knowledge from within (partner initiatives)
+* Share knowledge early (partner gatherings)
+* Provide content and feedback to the wider community (meetups)
+
+
+
 

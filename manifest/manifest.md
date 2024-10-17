@@ -1,4 +1,26 @@
 # Belgian Developer Experience Network - Manifest
+
+## Table of Contents
+
+- [Belgian Developer Experience Network - Manifest](#belgian-developer-experience-network---manifest)
+    - [Mission statement](#mission-statement)
+    - [Values](#values)
+    - [Rules of engagement](#rules-of-engagement)
+        - [Participation](#participation)
+        - [Respect and Inclusivity](#respect-and-inclusivity)
+        - [Communication](#communication)
+        - [Networking and Privacy](#networking-and-privacy)
+        - [Digital Conduct](#digital-conduct)
+        - [Conflict Resolution](#conflict-resolution)
+        - [Commitment to Community](#commitment-to-community)
+    - [Steering committee](#steering-committee)
+    - [Community](#community)
+        - [Topic subjects](#topic-subjects)
+        - [Topic criteria/content](#topic-criteriacontent)
+        - [Target audience](#target-audience)
+        - [Knowledge gathering and sharing focus](#knowledge-gathering-and-sharing-focus)
+
+
 ## Mission statement
 We hereby establish this Community Manifesto as a testament to our commitment to build, nurture, 
 and sustain “Developer Experience Network” for the benefit of all its members and the broader objectives 

@@ -1,4 +1,4 @@
-# Belgian Developer Experience Network - Manifest
+# Manifest
 
 ## Table of Contents
 

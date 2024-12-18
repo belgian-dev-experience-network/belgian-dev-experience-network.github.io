@@ -1,0 +1,11 @@
+# Docker container to facilitate local development
+# http://localhost:4000/
+services:
+  jekyll-serve:
+    image: bretfisher/jekyll-serve
+    command: bundle exec jekyll serve --force_polling -H 0.0.0.0 --livereload
+    ports:
+      - "4000:4000"
+      - "35729:35729"
+    volumes:
+      - .:/site

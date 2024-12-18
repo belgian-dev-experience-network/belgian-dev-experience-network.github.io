@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The first BDEN meetup!"
-date:   2024-11-14 15:00:00 +0200
+date:   2024-09-24 15:00:00 +0200
 categories: [Events]
 tags: [AI, Java]
 meetup_link: "https://www.meetup.com/meetup-group-judpeflp/events/303923985/?slug=meetup-group-judpeflp&eventId=303923985"

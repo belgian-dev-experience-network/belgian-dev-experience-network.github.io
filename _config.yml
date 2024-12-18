@@ -4,6 +4,7 @@ description: >-
 baseurl: ""
 url: "https://belgian-dev-experience-network.github.io"
 github_username:  belgian-dev-experience-network
+youtube_username: "@BelgianDeveloperExperience"
 theme: minima
 plugins:
   - jekyll-feed

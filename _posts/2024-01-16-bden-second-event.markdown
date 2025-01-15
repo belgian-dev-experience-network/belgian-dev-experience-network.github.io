@@ -24,10 +24,10 @@ Whether you're a seasoned platform engineer or just starting to explore this exc
 |:-------------:|:------------------------------------------------:|
 | 17:00 - 18:00 |                    Doors open                    |
 | 18:00 - 18:15 |                  Intro session                   |
-| 18:15 - 18:00 | Bypassing Security Controls in the K8s Ecosystem |
-| 17:00 - 17:15 |                      Break                       |
-| 17:15 - 18:00 |         Platform Engineering on a Budget         |
-| 18:00 - 20:00 |               Network Event & Food               |
+| 18:15 - 19:00 | Bypassing Security Controls in the K8s Ecosystem |
+| 19:00 - 19:15 |                      Break                       |
+| 19:15 - 20:00 |         Platform Engineering on a Budget         |
+| 20:00 - 22:00 |               Network Event & Food               |
 
 ## The presentations
 
@@ -60,7 +60,6 @@ In this session we will introduce you to Platform Engineering, how practices evo
 Since some time, developer portals have emerged, which try to fill this space, however, we can already get quite far by just leveraging Infrastructure as Code, GitOps and CI/CD.
 
 We will focus on enabling developer flow, enabling different application teams to use internal tools effectively, and trying to make them converge to common standards and golden paths.
-
 
 ## Registration
 

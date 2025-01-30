@@ -40,7 +40,11 @@ Whether you're a seasoned platform engineer or just starting to explore this exc
 
 **Description:**
 
-*Will be added in the following days. Stay tuned!*
+Let’s be real: Kubernetes security is a mess. Developers are expected to ship fast, scale seamlessly, and somehow keep attackers out while juggling a ton of other responsibilities. Meanwhile, threats like data theft, cryptojacking, and cluster takeovers are looking around every corner. And let’s not even start on AI workloads: they bring a whole new level of chaos to the (application) security game.
+
+The attack surface is vast. Many security controls fail to provide an acceptable level of protection and are often easily bypassed. By examining the problem from various angles, this talk will explore where and how to effectively secure applications, workloads, and clusters. 
+
+To conclude, we’ll examine how AI and its associated frameworks further complicate the security landscape. This session aims to shed light on how collective awareness of these security challenges can lead to better protection for everyone.
 
 ### Platform Engineering on a Budget
 

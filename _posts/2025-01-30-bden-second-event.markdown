@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The second BDEN meetup!"
-date:   2024-01-30 15:00:00 +0200
+date:   2025-01-30 15:00:00 +0200
 categories: [Events]
 tags: [Platform Engineering, Security, Shift Left]
 meetup_link: "https://www.meetup.com/meetup-group-judpeflp/events/"
@@ -14,6 +14,7 @@ Welcome back to the Belgian Developer Experience Network!
 After a fantastic kick-off event in November where we explored the foundations of our community, we're diving deep into a topic that's transforming the way we develop and deploy software: Platform Engineering.
 
 On the **25th of February**, we'll be tackling the crucial intersection of security, developer responsibilities, and platform engineering, with a focus on practical strategies and real-world challenges.
+This might seem pretty focused towards more DevOps-oriented roles, but our goal is to make these talkes tailored to developers their needs and challenges.
 
 Get ready for insightful talks from experienced professionals, lively discussions, and the opportunity to connect with fellow developers passionate about building software. 
 Whether you're a seasoned platform engineer or just starting to explore this exciting field, join us for an evening of learning, sharing, and growing together.

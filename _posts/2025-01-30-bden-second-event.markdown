@@ -4,7 +4,7 @@ title:  "The second BDEN meetup!"
 date:   2025-01-30 15:00:00 +0200
 categories: [Events]
 tags: [Platform Engineering, Security, Shift Left]
-meetup_link: "https://www.meetup.com/meetup-group-judpeflp/events/"
+meetup_link: "https://www.meetup.com/nl-NL/meetup-group-judpeflp/events/305898555/"
 ---
 
 ## Welcome to the Second BDEN Meetup!
@@ -50,12 +50,16 @@ To conclude, we’ll examine how AI and its associated frameworks further compli
 
 **Speaker:**
 
-[Tim Speetjens](https://www.linkedin.com/in/timspeetjens/) (Platform Engineer at paradigm.brussels)
+[Evelien Schellekens](https://www.linkedin.com/in/evelien-schellekens) (Senior Solutions Architect at Elastic)
 
 **Description:**
 
-*Will be added in the following days. Stay tuned!*
+Kubernetes makes scaling applications easy, but monitoring them can be a challenge. OpenTelemetry helps by providing a standard way to collect metrics, logs, and traces - but how do you actually use it in real-world applications?
+
+In this talk, we’ll break down how the OpenTelemetry Operator simplifies observability in Kubernetes and why it’s a game-changer for developers and platform engineers. We’ll also explore how to send OpenTelemetry data to Elastic where powerful search and analytics capabilities help you quickly detect issues, find root causes, and optimize performance.
+
+To wrap things up, I’ll demo a complete setup, from deploying the OpenTelemetry Operator to monitoring an application in Elastic.
 
 ## Registration
 
-*Will be added in the following days. Stay tuned!*
+Don't forget to [register on our meetup page!]( {{ page.meetup_link }} )

@@ -46,7 +46,7 @@ The attack surface is vast. Many security controls fail to provide an acceptable
 
 To conclude, we’ll examine how AI and its associated frameworks further complicate the security landscape. This session aims to shed light on how collective awareness of these security challenges can lead to better protection for everyone.
 
-### Platform Engineering on a Budget
+### Monitoring Applications Running on K8s with openTelemetry
 
 **Speaker:**
 

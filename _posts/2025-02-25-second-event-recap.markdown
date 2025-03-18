@@ -24,6 +24,7 @@ One key message? **Security can’t be an afterthought**—as developers, we nee
 
 ![philippe-bypassing-security-controls.avif](/assets/2025-02-25/philippe-bypassing-security-controls.avif){: width="350" style="float: left; padding-right: 5px;" }
 ![philippe-speaking.avif](/assets/2025-02-25/philippe-speaking.avif){: width="350" style="float: left" }
+<br>
 
 ### 🛠️ **Monitoring Applications Running on K8s with OpenTelemetry**
 **Speaker: [Evelien Schellekens](https://www.linkedin.com/in/evelien-schellekens/)**
@@ -34,6 +35,7 @@ The key takeaway? **Better observability doesn’t have to come with a big price
 
 ![evelien-opentelemetry.avif](/assets/2025-02-25/evelien-opentelemetry.avif){: width="350" style="float: left; padding-right: 5px;" }
 ![evelien-speaking.avif](/assets/2025-02-25/evelien-speaking.avif){: width="350" style="float: left" }
+<br>
 
 ## **Networking, Food & Community**
 

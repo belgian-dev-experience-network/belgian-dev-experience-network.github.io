@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "BDEN Meetup #3 From Platform Engineering to Java Virtual Threads"
-date: 2025-05-14 22:00:00 +0200
+date: 2025-05-09 22:00:00 +0200
 categories: [ Events ]
 tags: [ Platform Engineering, DevSecOps, CNCF, Java ]
 meetup_link: "https://www.meetup.com/meetup-group-judpeflp/events/307827173"
@@ -28,7 +28,7 @@ together.
 | 18:15 - 19:00 |                          DevSecOps: A Love Triangle                            |
 | 19:00 - 19:15 |                                    Break                                       |
 | 19:15 - 19:45 | From Reactive to Virtual: Simplifying Our Codebase with Java's Virtual Threads |
-| 19:45 - ..    |                             Network Event & Food                               |
+| 19:45 - 22:00 |                             Network Event & Food                               |
 
 ## The presentations
 

@@ -23,13 +23,12 @@ together.
 
 |     Time      |                                     Event                                      |
 |:-------------:|:------------------------------------------------------------------------------:|
-| 17:30 - 18:30 |                                  Doors open                                    |
-|               |                              Network Event & Food                              |
-|               |                                Intro session                                   |
-|               |                          DevSecOps: A Love Triangle                            |
-|               |                                    Break                                       |
-|               | From Reactive to Virtual: Simplifying Our Codebase with Java's Virtual Threads |
-|               |                             Network Event & Food                               |
+| 17:30 - 18:00 |                                  Doors open                                    |
+| 18:00 - 18:15 |                                Intro session                                   |
+| 18:15 - 19:00 |                          DevSecOps: A Love Triangle                            |
+| 19:00 - 19:15 |                                    Break                                       |
+| 19:15 - 19:45 | From Reactive to Virtual: Simplifying Our Codebase with Java's Virtual Threads |
+| 19:45 - ..    |                             Network Event & Food                               |
 
 ## The presentations
 

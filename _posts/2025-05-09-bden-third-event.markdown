@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "The second BDEN meetup!"
-date: 2025-01-30 15:00:00 +0200
+title: "BDEN Meetup #3 From Platform Engineering to Java Virtual Threads"
+date: 2025-05-14 22:00:00 +0200
 categories: [ Events ]
-tags: [ Platform Engineering, Security, Shift Left ]
-meetup_link: "https://www.meetup.com/nl-NL/meetup-group-judpeflp/events/305898555/"
+tags: [ Platform Engineering, DevSecOps, CNCF, Java ]
+meetup_link: "https://www.meetup.com/meetup-group-judpeflp/events/307827173"
 ---
 
 ## Welcome to the Third BDEN Meetup!
@@ -21,21 +21,19 @@ together.
 
 ## Schedule
 
-_Still work in progress_
-
-|     Time      |                                                 Event                                                  |
-|:-------------:|:------------------------------------------------------------------------------------------------------:|
-| 17:30 - 18:30 |                                               Doors open                                               |
-|               |                                          Network Event & Food                                          |
-|               |                                             Intro session                                              |
-|               |                                        Burr Sutter - topic TBD                                         |
-|               |                                                 Break                                                  |
-|               | How Virtual Threads helped us migrate away from Quarkus Mutiny for simpler and easier to maintain code |
-|               |                                          Network Event & Food                                          |
+|     Time      |                                     Event                                      |
+|:-------------:|:------------------------------------------------------------------------------:|
+| 17:30 - 18:30 |                                  Doors open                                    |
+|               |                              Network Event & Food                              |
+|               |                                Intro session                                   |
+|               |                          DevSecOps: A Love Triangle                            |
+|               |                                    Break                                       |
+|               | From Reactive to Virtual: Simplifying Our Codebase with Java's Virtual Threads |
+|               |                             Network Event & Food                               |
 
 ## The presentations
 
-### Topic TBD
+### DevSecOps: A Love Triangle
 
 **Speaker:**
 
@@ -43,9 +41,9 @@ _Still work in progress_
 
 **Description:**
 
-TBD
+In this session, we will have some fun exploring love triangles as a common narrative device in theater, literature, and film but applying it to the much more interesting world of enterprise IT, where all the action is really happening now that we are digitally transformed. We will be live demonstrating and hacking with some very fun capabilities covering Internal Developer Platforms leveraging Backstage, Kubernetes and CNCF ecosystem and perhaps see if there is a nirvana where Dev, Sec and Ops can live happily ever after.
 
-### How Virtual Threads helped us migrate away from Quarkus Mutiny for simpler and easier to maintain code
+### From Reactive to Virtual: Simplifying Our Codebase with Java's Virtual Threads
 
 **Speaker:**
 
@@ -53,7 +51,7 @@ TBD
 
 **Description:**
 
-TBD
+In this talk, I'll share our journey migrating from Quarkus Mutiny's reactive programming model to Java's Virtual Threads at Customaite.ai. I'll demonstrate how this transition led to cleaner, more maintainable code while maintaining high performance. I'll also cover the custom patterns we developed to address gaps in Java's standard library, particularly when working with structured concurrency (currently in preview mode).
 
 ## Registration
 

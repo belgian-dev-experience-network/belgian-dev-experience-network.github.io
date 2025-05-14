@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "BDEN Meetup #3 From Platform Engineering to Java Virtual Threads"
-date: 2025-01-30 15:00:00 +0200
+date: 2025-05-14 22:00:00 +0200
 categories: [ Events ]
-tags: [ Platform Engineering, Security, Shift Left ]
-meetup_link: ""
+tags: [ Platform Engineering, DevSecOps, CNCF, Java ]
+meetup_link: "https://www.meetup.com/meetup-group-judpeflp/events/307827173"
 ---
 
 ## Welcome to the Third BDEN Meetup!
@@ -20,8 +20,6 @@ Whether you're a seasoned software developer, a platform engineer or just starti
 together.
 
 ## Schedule
-
-_Still work in progress_
 
 |     Time      |                                     Event                                      |
 |:-------------:|:------------------------------------------------------------------------------:|

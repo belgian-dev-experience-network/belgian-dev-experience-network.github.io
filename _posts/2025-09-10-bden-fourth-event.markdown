@@ -4,7 +4,7 @@ title: "BDEN Meetup #4: Testing and validating Helm Charts - workshop"
 date: 2025-09-10 10:00:00 +0200
 categories: [Events]
 tags: [ Kubernetes, Helm, Testing, Json schema ]
-meetup_link: "..."
+meetup_link: "https://www.meetup.com/meetup-group-judpeflp/events/310966798"
 ---
 
 ## Welcome to the Fourth BDEN Meetup!
@@ -51,5 +51,4 @@ Will be announced soon...
 
 ## Registration
 
-The Meetup link will be available soon. Keep an eye on this page for the registration details!
-```
+Don't forget to [register on our meetup page!]( {{ page.meetup_link }} )

@@ -29,7 +29,7 @@ Whether you're new to Helm or looking to solidify your testing strategies, this 
 
 ## The Workshop
 
-### Part 1: Helm chart unit and integration testing
+### Helm chart unit and integration testing
 
 **Speaker:**
 
@@ -38,16 +38,6 @@ Whether you're new to Helm or looking to solidify your testing strategies, this 
 **Description:**
 
 This interactive workshop will dive into the world of testing Helm Charts. Attendees will learn practical tips and tricks on how to write effective unit and integration tests. The goal is to establish a robust testing process that provides quick feedback on possible issues, ensuring your Helm deployments are reliable and bug-free from the start.
-
-### Part 2: "Coming soon"
-
-**Speaker:**
-
-Will be announced soon...
-
-**Description:**
-
-...
 
 ## Registration
 

@@ -28,6 +28,14 @@ The workshop covered both **unit and integration testing** approaches, focusing 
 
 ---
 
+### **Workshop: Helm Chart JSON Schema Validation**
+
+**Instructor: [Jeroen Vermeylen](https://www.linkedin.com/in/jeroenvermeylen/)** *(DevOps Engineer @ FlowFactor)*
+
+In addition to testing, Jeroen also covered **JSON Schema validation** for Helm charts. Participants learned how to define and enforce structure in their Helm values files, ensuring that deployments are not only functional but also compliant with organizational standards.
+
+![jeroen-speaking.jpg](/assets/2025-10-21/jeroen-speaking.jpg){: width="350" style="float: left; padding-right: 5px;" }
+
 ### **Food, Networking & Flow**
 
 After the workshop, everyone gathered for **food, drinks, and conversations** 🍕🍻. From discussing Helm best practices to swapping CI/CD horror stories, the evening wrapped up in true BDEN fashion. With knowledge shared, connections made, and plenty of laughs.  

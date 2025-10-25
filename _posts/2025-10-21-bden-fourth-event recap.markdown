@@ -34,7 +34,9 @@ The workshop covered both **unit and integration testing** approaches, focusing 
 
 In addition to testing, Jeroen also covered **JSON Schema validation** for Helm charts. Participants learned how to define and enforce structure in their Helm values files, ensuring that deployments are not only functional but also compliant with organizational standards.
 
-![jeroen-speaking.jpg](/assets/2025-10-21/jeroen-speaking.jpg){: width="350" style="float: left; padding-right: 5px;" }
+![jeroen-speaking.jpg](/assets/2025-10-21/jeroen-speaking.jpg){: width="350" }
+
+---
 
 ### **Food, Networking & Flow**
 

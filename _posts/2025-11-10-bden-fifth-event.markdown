@@ -26,6 +26,14 @@ Make sure to be there for the deep dives, stay for the discussion and networking
 ## Sessions
 
 ### MCP: Threats, Tools, and a Few (Hacking) Demos
+
+**Speaker:**
+
+[Philippe Bogaerts](https://www.linkedin.com/in/philippebogaerts/)
+
+Philippe contributes mostly by writing blog posts [xxradar](https://xxradar.medium.com), talking at meetups as well as co-organizing a renowned security conference [BruCON](https://brucon.org). During daytime, Philippe is a solution architect at [Fortinet](https://www.fortinet.com).
+
+**Description:**
 Join us for a technical deep-dive meetup on the Model Context Protocol (MCP), the emerging open standard that allows LLMs to securely interact with external tools, data, and services.  
 
 We’ll start by demystifying what MCP really is and how the client–server flow works, then dive straight into hands-on tooling and attack-surface experiments. You’ll leave you with both defensive and offensive insights into this rapidly evolving ecosystem.
@@ -40,6 +48,14 @@ Format: 45–60 minutes of technical discussion and attack-surface experiments.
 All demos and experiments will be documented on GitHub.
 
 ### LLMs ≠ Schedulers — Metaheuristics with Timefold
+
+**Speaker:**
+
+[Tom Cools](https://www.linkedin.com/in/tom-cools-17547548/)
+
+Tom Cools is a DevRel at [Timefold](https://timefold.com), Java Champion, BeJUG organizer and (Keynote) Conference Speaker.
+
+**Description:**
 LLMs can't optimize schedules, but AI can!
 
 Large language models are touted as the solution for every problem under the sun. Yet, when it comes to everyday tasks like creating work schedules for 30 employees across 3 shifts or optimizing truck routes for 100 deliveries these models often derail.

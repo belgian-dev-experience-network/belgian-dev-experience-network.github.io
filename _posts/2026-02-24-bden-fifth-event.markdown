@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "BDEN Meetup #5: MCP — Threats & Demos / Metaheuristics with Timefold"
-date: 2025-11-10 10:00:00 +0200
+title: "BDEN Meetup #5: MCP - Threats & Demos / Platform Engineering with Backstage"
+date: 2026-02-24 10:00:00 +0200
 categories: [Events]
-tags: [ AI, LLMs, Security, Java, Metaheuristics ]
-meetup_link: ""
+tags: [ AI, LLMs, Security, Java, Platform Engineering ]
+meetup_link: "https://www.meetup.com/meetup-group-judpeflp/events/313188047"
 ---
 
 ## Welcome to the Fifth BDEN Meetup!
 We have 2 technical talks lined up for our fifth Belgian Developer Experience Network meetup!
-Mark your calendars for the **9th of December**, because it is going to be an evening packed with insights into using AI securely and effectively.
+Mark your calendars for the **24th of February**, because it is going to be an evening packed with insights into using AI securely and effectively.
 Make sure to be there for the deep dives, stay for the discussion and networking.
 
 ## Schedule
@@ -18,9 +18,9 @@ Make sure to be there for the deep dives, stay for the discussion and networking
 |:-------------:|:------------------------------------------------:|
 | 18:00 - 18:20 |                    Doors open                    |
 | 18:20 - 18:30 |                  Intro session                   |
-| 18:30 - 19:15 |  MCP: Threats, Tools, and a Few (Hacking) Demos  |
-| 19:15 - 19:20 |                       Break                      |
-| 19:20 - 20:05 |  LLMs ≠ Schedulers — Metaheuristics with Timefold |
+| 18:30 - 19:30 |  MCP: Threats, Tools, and a Few (Hacking) Demos  |
+| 19:30 - 19:45 |                       Break                      |
+| 19:45 - 20:30 |  The Golden Path: Where Governance Meets Software |
 | 20:05 - 22:00 |               Network Event & Food               |
 
 ## Sessions
@@ -34,6 +34,7 @@ Make sure to be there for the deep dives, stay for the discussion and networking
 Philippe contributes mostly by writing blog posts [xxradar](https://xxradar.medium.com), talking at meetups as well as co-organizing a renowned security conference [BruCON](https://brucon.org). During daytime, Philippe is a solution architect at [Fortinet](https://www.fortinet.com).
 
 **Description:**
+
 Join us for a technical deep-dive meetup on the Model Context Protocol (MCP), the emerging open standard that allows LLMs to securely interact with external tools, data, and services.  
 
 We’ll start by demystifying what MCP really is and how the client–server flow works, then dive straight into hands-on tooling and attack-surface experiments. You’ll leave you with both defensive and offensive insights into this rapidly evolving ecosystem.
@@ -47,28 +48,29 @@ What to expect:
 Format: 45–60 minutes of technical discussion and attack-surface experiments. 
 All demos and experiments will be documented on GitHub.
 
-### LLMs ≠ Schedulers — Metaheuristics with Timefold
+### The Golden Path: Where Governance Meets Software
 
 **Speaker:**
 
-[Tom Cools](https://www.linkedin.com/in/tom-cools-17547548/)
+[Jonathan Lamy](https://www.linkedin.com/in/jonathanlamy/)
 
-Tom Cools is a DevRel at [Timefold](https://timefold.com), Java Champion, BeJUG organizer and (Keynote) Conference Speaker.
+Jonathan is Solution & Enterprise Architect at [Devoteam](https://www.linkedin.com/company/devoteam/), who never forgot his roots in software craftsmanship.
 
 **Description:**
-LLMs can't optimize schedules, but AI can!
 
-Large language models are touted as the solution for every problem under the sun. Yet, when it comes to everyday tasks like creating work schedules for 30 employees across 3 shifts or optimizing truck routes for 100 deliveries these models often derail.
+In the rush to modernize, we often mistake Speed (shipping code fast) for Velocity (shipping value reliably).
 
-We'll introduce you to metaheuristics and a practical walkthrough using Timefold (open-source, Java) with pointers to similar tools in other ecosystems.
+We have mastered Agile and DevOps, yet many teams are still terrified to deploy on a Friday.
 
-What to expect:
-- Explanation of when metaheuristics are the right tool (scheduling, routing, constraint satisfaction).
-- Live demos: annotate domain classes, define constraints, and run optimizations with Timefold.
-- How LLMs and metaheuristics can complement each other to build powerful, practical AI-assisted tooling.
+Jonathan argues that the solution lies not in more rules, but in engineering confidence.
 
-Format: ~40–50 minutes including demos and Q&A. 
-Example code and links will be shared.
+In this session, we will explore The Golden Path—not as a rigid constraint, but as the blueprint for a frictionless route to production.
+We will discuss how to treat the platform as a product, embedding Well-Crafted Software directly into the infrastructure.
+
+By automating the heavy lifting of compliance and security, we stop drowning developers in configuration and empower them to steadily add value.
+This isn't just about preventing chaos; it's about restoring the confidence to ship.
+
+Format: ~40–50 minutes including demos and Q&A. Example code and links will be shared.
 
 ## Registration
 

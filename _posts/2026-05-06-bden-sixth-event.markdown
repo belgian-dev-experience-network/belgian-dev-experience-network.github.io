@@ -21,7 +21,7 @@ Red Hat Tech Day is a one-day conference for both technical and non-technical au
 focused on the latest technologies and methodologies from the AI and software development communities.
 
 You are also welcome to register for the full event here:
-https://reg.experiences.redhat.com/flow/redhat/3977379/fieldeventsregapproveform/page/landingregistrationpage
+https://www.meetup.com/meetup-group-judpeflp/events/314655985
 ## Schedule
 
 |     Time      |        Event         |

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "BDEN Meetup #5: MCP - Threats & Demos / Platform Engineering with Backstage"
-date: 2026-02-24 10:00:00 +0200
+title: "BDEN Meetup #6: MCP - AI inferencing and enterprise/efficient AI enablement"
+date: 2026-06-04 10:00:00 +0200
 categories: [Events]
 tags: [ AI, LLMs, Security, Java, Platform Engineering ]
 meetup_link: "https://www.meetup.com/meetup-group-judpeflp/events/313188047"

@@ -11,68 +11,76 @@ meetup_link: "https://www.meetup.com/meetup-group-judpeflp/events/313188047"
 
 AI is moving fast, and developers are right in the middle of it.
 
-Some are already experimenting with AI-assisted coding, agents, MCP servers, and local models. Others are still trying to understand what all these new concepts really mean and
-where to start. This meetup is designed for both.
+Some are already experimenting with AI-assisted coding, agents, MCP servers, and local models. Others are still trying to understand what all these new concepts really mean and where to start. This meetup is designed for both.
 
-For our sixth Belgian Developer Experience Network meetup, we will focus on what AI means for developers today: how agentic systems are built, how they can be used safely, and what
-it takes to bring them closer to production in an enterprise context.
+For our sixth Belgian Developer Experience Network meetup, we will focus on what AI means for developers today: how agentic systems are built, how they can be used safely, and what it takes to bring them closer to production in an enterprise context.
 
 As always, expect more than slideware. We will have explanations, demos, real-world discussion, and enough space for questions and networking.
 
-Mark your calendars for the **4th of June**, because it is going to be an evening packed with practical insights into AI, agents, developer workflows, and production readiness.
+Mark your calendars for the 4th of June, because it is going to be an evening packed with practical insights into AI, agents, developer workflows, and production readiness.
 
 ## Location
 
-This meetup will take place as part of **Red Hat Tech Day Belgium**, hosted at **The Montil in Affligem**.
+This meetup will take place as part of Red Hat Tech Day Belgium, hosted at The Montil in Affligem.
 
-Red Hat Tech Day is a one-day conference for both technical and non-technical audiences. This year, for the first time, the event will also include a dedicated **developer track**,
-focused on the latest technologies and methodologies from the AI and software development communities.
+Red Hat Tech Day is a one-day conference for both technical and non-technical audiences. This year, for the first time, the event will also include a dedicated developer track, focused on the latest technologies and methodologies from the AI and software development communities.
 
-You are also welcome to [register for the full event here](https://reg.experiences.redhat.com/flow/redhat/3977379/fieldeventsregapproveform/page/landingregistrationpage).
+You are also welcome to register for the full event here.
 
 ## Schedule
 
-|     Time      |                  Event                  |
-|:-------------:|:---------------------------------------:|
-| 17:00 - 18:00 |               Doors open                |
-| 18:00 - 18:15 |              Intro session              |
+| Time | Event |
+| ---- | ----- |
+| 17:00 - 18:00 | Doors open |
+| 18:00 - 18:15 | Intro session |
 | 18:15 - 19:15 | AI agents, skills, demos and sandboxing |
-| 19:15 - 19:30 |                  Break                  |
-| 19:30 - 20:30 | Panel: putting agentic AI in production |
-| 20:30 - 22:00 |         Networking event & food         |
+| 19:15 - 19:30 | Break |
+| 19:30 - 20:30 | Panel discussion: putting agentic AI in production |
+| 20:30 - 22:00 | Networking & food |
 
 ## Sessions
 
 ### Session 1: AI agents, skills, demos and sandboxing
 
-**Speaker:**
-
+**Speaker:**  
 Burr Sutter, Director of Developer Experience at Red Hat
 
-**Description:**
+**Description:**  
+AI is no longer just about sending prompts to a chatbot. Developers are now exploring skills, agents, tools, MCP servers, and workflows where AI systems can take action instead of only generating text.
 
-AI is no longer just about sending prompts to a chatbot. Developers are now exploring skills, agents, tools, MCP servers, and workflows where AI systems can take action instead of
-only generating text.
-
-In this session, Burr Sutter will explain what skills and agents are, how they work, and why they matter for developers. Through demos, he will show how these concepts are
-implemented and defined within Red Hat, and how agentic systems can be sandboxed with technologies such as OpenClaw.
+In this session, Burr Sutter will explain what skills and agents are, how they work, and why they matter for developers. Through demos, he will show how these concepts are implemented and defined within Red Hat, and how agentic systems can be sandboxed with technologies such as OpenClaw.
 
 Whether you are new to AI or already experimenting with agents in your own workflow, this session will help you connect the concepts to practical developer use cases.
 
-### Session 2: Panel: putting agentic AI in production
+### Session 2: Panel discussion: putting agentic AI in production
 
-**Speakers:**
+**Panel participants:**
+- Burr Sutter, Director of Developer Experience at Red Hat
+- Stephan Janssen, founder of Devoxx and organizer of Devoxx Belgium
+- One mystery guest, to be announced later this week
 
-TBD
-
-**Description:**
-
+**Description:**  
 Building a demo with AI is one thing. Putting AI, and especially agentic AI, into production is something else.
 
-After a short break, we will continue with a panel discussion on what it takes to use AI safely and effectively inside an organization. We will discuss how to get started, what
-developers should keep in mind, what organizations need to prepare for, and how to think about governance, security, reliability, and platform support.
+After a short break, we will continue with a panel discussion on what it takes to use AI safely and effectively inside an organization. We will discuss how to get started, what developers should keep in mind, what organizations need to prepare for, and how to think about governance, security, reliability, and platform support.
+
+The panel will bring together different perspectives from developer experience, AI-assisted software development, enterprise readiness, and the changing role of developers in the age of intelligent systems.
 
 This panel is for developers who are curious about AI, developers already using AI tools, and teams wondering how to move from experimentation to real adoption.
+
+#### About Stephan Janssen
+
+Stephan Janssen is the founder of Devoxx and organizer of Devoxx Belgium. In recent years, his work has focused heavily on LLMs, AI-assisted software development, and Agentic Engineering.
+
+He actively explores technologies such as local and cloud-based LLMs, multi-agent systems, MCP, RAG, Spec-Driven Development, and AI-powered developer workflows. Stephan is also the creator of DevoxxGenie, an open-source IntelliJ IDEA plugin that enables developers to interact with local and remote LLMs directly from their IDE.
+
+Through talks, workshops, and R&D projects, he focuses on how AI agents are transforming software engineering and how developers are evolving from traditional coders into orchestrators of intelligent systems.
+
+More info: https://stephanjanssen.be
+
+## Additional note
+
+This meetup includes food. Please keep your RSVP status up to date so we do not waste any food. In case you are no longer sure you can join in person, please update your RSVP accordingly.
 
 ## Registration
 

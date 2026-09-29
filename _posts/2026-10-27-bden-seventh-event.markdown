@@ -4,7 +4,7 @@ title: "BDEN Meetup #7: On-prem full-stack AI and vibe-coding panel discussion"
 date: 2026-10-27 10:00:00 +0200
 categories: [ Events ]
 tags: [ AI, LLMs, Agents, MCP, Vibe Coding, Developer Experience ]
-meetup_link: "https://www.meetup.com/meetup-group-judpeflp/events/000"
+meetup_link: "https://www.meetup.com/meetup-group-judpeflp/events/316655050"
 ---
 
 ## Welcome to the Seventh BDEN Meetup!
